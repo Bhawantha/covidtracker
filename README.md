@@ -1,1 +1,0 @@
-# covidtracker.github.io
